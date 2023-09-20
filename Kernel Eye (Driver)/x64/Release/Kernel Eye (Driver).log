@@ -1,0 +1,8 @@
+﻿  Building 'Kernel Eye (Driver)' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\KernelEye(Driver).inf
+  Stamping [Version] section with DriverVer=05/18/2022,21.53.46.713
+  k-main.cpp
+C:\Users\junos\source\repos\Kernel Eye (Driver)\k-api.h(107,1): error C2220: the following warning is treated as an error
+C:\Users\junos\source\repos\Kernel Eye (Driver)\k-api.h(107,1): warning C4100: 'module_name': unreferenced formal parameter
+C:\Users\junos\source\repos\Kernel Eye (Driver)\k-api.h(135,1): warning C4267: 'argument': conversion from 'size_t' to 'ULONG', possible loss of data
+C:\Users\junos\source\repos\Kernel Eye (Driver)\k-main.cpp(6,65): warning C4100: 'registry_path': unreferenced formal parameter

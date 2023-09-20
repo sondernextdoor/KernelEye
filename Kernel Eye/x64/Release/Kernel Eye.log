@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\junos\source\repos\Kernel Eye\api.h(107,1): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\junos\source\repos\Kernel Eye\api.h(916,19): warning C4101: 'bytes_returned': unreferenced local variable
+C:\Users\junos\source\repos\Kernel Eye\api.h(1136,1): warning C4297: 'api::thread::~thread': function assumed not to throw an exception but does
+C:\Users\junos\source\repos\Kernel Eye\api.h(1136,1): message : destructor or deallocator has a (possibly implicit) non-throwing exception specification
+     Creating library C:\Users\junos\source\repos\Kernel Eye\x64\Release\kerneleye.lib and object C:\Users\junos\source\repos\Kernel Eye\x64\Release\kerneleye.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 140 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Kernel Eye.vcxproj -> C:\Users\junos\source\repos\Kernel Eye\x64\Release\kerneleye.dll
